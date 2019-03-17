@@ -1,0 +1,47 @@
+/* 添加 CSS */
+h3{
+	padding: 10px;
+	margin: 0px;
+}
+
+img{
+	width: 300px;
+	height: 200px;
+	padding: 0px 10px;	
+}
+
+.intresting {
+	font-style: italic;
+	margin: 0px;
+}
+
+.description{
+	margin: 0px;
+}
+
+span{
+	font-weight: bold;
+}
+
+ul{
+	list-style: none;
+	padding: 10px 0px;
+	margin: 0px;
+
+}
+
+.card{
+	width: fit-content;
+	border-style: solid;
+	border-color: #ddd;
+	border-width: 2px;
+}
+
+.summary{
+	width: 276px;
+    border-style: solid;
+    border-color: #ddd;
+    border-width: 2px;
+    padding: 10px;
+    margin: 10px;
+}
